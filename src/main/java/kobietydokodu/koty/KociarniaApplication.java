@@ -8,5 +8,8 @@ public class KociarniaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(KociarniaApplication.class, args);
+
+
+		System.out.println("||f");
 	}
 }
