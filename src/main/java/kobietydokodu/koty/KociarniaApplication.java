@@ -10,6 +10,6 @@ public class KociarniaApplication {
 		SpringApplication.run(KociarniaApplication.class, args);
 
 
-		System.out.println("||f");
+		System.out.println("");
 	}
 }
