@@ -1,7 +1,6 @@
 package kobietydokodu.repository;
 
 
-        import kobietydokodu.repository.NoteRepository;
         import kobietydokodu.exception.ResourceNotFoundException;
         import kobietydokodu.model.Note;
         import org.springframework.beans.factory.annotation.Autowired;
